@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    background-color: rgb(234, 230, 245);
+}
+
+section{
+    margin: 10%;
+    padding: 50px;
+    background-color: rgb(129, 75, 156);
+    align-items: center;
+    align-content: center;
+    border-radius: 20px;
+}
+
+/* .conainer{
+    display: flex;
+    
+} */
+
+textarea{
+    display: inline-block;
+}
+
+h2{
+    color: rgb(21, 13, 139);
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+
+textarea{
+    display: inline-block;
+}
+
